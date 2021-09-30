@@ -1,0 +1,35 @@
+RED
+H:3
+S:98
+V:45
+R:115
+G:8
+B:2
+
+BLUE
+195
+47
+40
+54
+90
+102
+
+Colors -> invert value  when colors are done
+
+Fonts: 
+
+card text:  arial, 28pts.
+bold card text: Sans bold, 25pts
+subheader: Bold Airal 33 pts
+Title: Arial, 41pts  8spaces apart.
+
+
+How to create an rolled edge on each card:
+- Delete the number of pixels horizontally from like so:
+
+xxxxxx       xxxxxx
+xxxx           xxxx
+xxx             xxx
+xx               xx
+x                 x
+x                 x
